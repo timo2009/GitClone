@@ -8,3 +8,11 @@ Theese things do you need:
 - os
 - colorama
 - sys
+
+Download this file and open your Terminal and navigate in the terminal (with cd) to the folder where the index.py file is located. There you enter in the Terminal:
+python3 index.py
+
+Then you have to enter an url an a foldername (the folder have to exist and to be empty)
+
+If you will do it fast you can enter after index.py the url and then the folder example:
+python3 index.py https://github.com/git/gitproject myFolder
