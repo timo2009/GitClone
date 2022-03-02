@@ -10,6 +10,7 @@ Theese things do you have to install:
 - sys
 
 Download this file and open your Terminal and navigate in the terminal (with cd) to the folder where the index.py file is located. There you enter in the Terminal:
+
 python3 index.py
 
 Then you have to enter an url an a foldername (the folder have to exist and to be empty)
