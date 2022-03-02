@@ -13,8 +13,6 @@ Download this file and open your Terminal and navigate in the terminal (with cd)
 
 python3 index.py
 
-Then you have to enter an url an a foldername (the folder have to exist and to be empty)
-
-If you will do it fast you can enter after index.py the url and then the folder example:
+Then you have to enter an url an a foldername (the folder have to exist and to be empty). If you will do it fast you can enter after index.py the url and then the folder example:
 
 python3 index.py https://github.com/git/gitproject myFolder
