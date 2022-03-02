@@ -3,7 +3,7 @@ Clone a Git Repository
 
 With this small programm you can clone a git Repository, if this is public.
 
-Theese things do you need:
+Theese things do you have to install:
 - git Python
 - os
 - colorama
